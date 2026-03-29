@@ -7,3 +7,4 @@ mc_bot_status.json is optional if your bot is only for a chat bridge. But mine, 
 
 chat_status.json is fully optional. I personally only use it to maintain the chat bridge in case of whatever. Text file that just checks if it is allowed to send messages.
 
+**IMPORTANT** You cant just run the JS file and except it to work! You need packages and stuff. Try to find a pre-prepared app. Watch a tutorial or anything.
