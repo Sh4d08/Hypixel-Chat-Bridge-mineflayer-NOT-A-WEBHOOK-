@@ -8,7 +8,7 @@ const mineflayer = require('mineflayer');
 const fs = require('fs');
 const path = require('path');
 
-// Keep Microsoft auth tokens inside the project directory so they survive Replit container resets
+// Keep Microsoft auth tokens inside the project directory
 const AUTH_CACHE_DIR = path.join(__dirname, '.minecraft-cache');
 
 const DISCORD_TOKEN = process.env.TOKEN;
